@@ -1,4 +1,4 @@
 # Java-angular2-ecommerce-app
-This application is for practice purposely
-Backend:- Spring Boot
-Frontend:- Angular 2
+## This application is for practice purposely
+### Backend:- Spring Boot
+### Frontend:- Angular 2
